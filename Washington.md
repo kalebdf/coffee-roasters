@@ -1,5 +1,5 @@
 # Washington
 
-# Portland
+## Portland
 
 * Stumptown Coffee Roasters
